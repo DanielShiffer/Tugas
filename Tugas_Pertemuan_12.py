@@ -35,6 +35,8 @@ def terbilang(n):
             return ' twelve '
         elif n == 13:
             return ' thirteen '
+        elif n == 14:
+            return ' fourteen '
         elif n == 15:
             return ' fifteen '
         elif n == 16:
